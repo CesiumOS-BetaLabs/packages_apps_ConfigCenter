@@ -32,6 +32,7 @@
     <!-- Sub categories -->
     <string name="statusbar_icons_category">Icons</string>
     <string name="statusbar_gestures_category">Gestures</string>
+    <string name="statusbar_tracking_category">Usage tracking</string>   
     <string name="network_traffic_indicator_category">Network indicator</string>
     <string name="qs_category">Quick settings</string>
     <string name="interface_category">Interface</string>
@@ -227,5 +228,9 @@
     <string name="clock_date_right">Right of time</string>
     <string name="clock_date_left">Left of time</string>
     <string name="clock_date_position">Date position</string>
+
+    <!-- QS DataUsage Toggle -->
+    <string name="qs_datausage_title">Show data usage in qs header</string>
+    <string name="qs_datausage_subtitle">Shows data usage in quick settings header of sim used for data</string>
 
 </resources>

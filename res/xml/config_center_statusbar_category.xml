@@ -59,4 +59,16 @@
 
     </PreferenceCategory>
 
+    <PreferenceCategory
+        android:key="cat_4"
+        android:title="@string/statusbar_tracking_category">
+
+        <org.cesium.config.center.preferences.SystemSettingSwitchPreference
+            android:key="qs_datausage" 
+            android:title="@string/qs_datausage_title" 
+            android:summary="@string/qs_datausage_subtitle"
+            android:defaultValue="false" />
+            
+    </PreferenceCategory>
+
 </PreferenceScreen> 
