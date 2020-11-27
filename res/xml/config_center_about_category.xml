@@ -144,6 +144,21 @@
             android:summary="Nokia 6.1 Plus">
         </Preference>
 
+        <Preference
+            android:title="Harsh"
+            android:summary="Redmi Note 8">
+        </Preference>
+
+        <Preference
+            android:title="Debayan Kar"
+            android:summary="Realme 1">
+        </Preference>
+
+        <Preference
+            android:title="Sakthivel"
+            android:summary="Realme U1">
+        </Preference>
+
     </PreferenceCategory>
 
 </PreferenceScreen>
